@@ -1,46 +1,49 @@
-Основные возможности:
+What it can do
 
-🧹Быстрая очистка/🧽Очистить всё/🗑️только корзину / 📂только TEMP
-Автоочистка:
-Автоматическое удаление мусора по расписанию 🗓️
-Автозагрузка:
-Запуск вместе с Windows 🖥️
-Два языка:
-Русский🇷🇺и английский🇺🇲 
-интерфейс:
-Тёмная тема🌙
-Статус:
-Отображение состояния и времени последней очистки ⏰
+One-click cleanup
 
-Для чего нужен?
+    🧹 Everything at once — temporary files + Recycle Bin
 
-Cleaney решает несколько повседневных задач:
-1. Очистка дискового пространства
+    🗑 Recycle Bin only
 
-    1)Удаляет временные файлы из папки %TEMP%
+    📁 TEMP only (temporary files folder)
 
-    2)Очищает корзину Windows
+Auto-cleanup (configurable)
 
-    3)Помогает освободить место на диске без ручного вмешательства
+    Turn on auto-cleanup — and the program will work on a schedule by itself
 
-2. Автоматическая поддержка чистоты
+    Choose what to clean: TEMP, Recycle Bin, RAM
 
-    Можно настроить автоматическую очистку с заданным интервалом (от 30 минут до 1 дня)
+    Set the interval: from 30 minutes to several days
 
-    Программа сама удаляет накопившийся мусор в фоновом режиме
+Looks and atmosphere 🎨
 
-3. Удобный доступ через трей
+    Dark theme (plus 5 more options: purple, green, pink, "moonlight night")
 
-    Иконка в системном трее (рядом с часами)
+    Seasonal tray icons: a pumpkin for Halloween 🎃, a Christmas tree for New Year 🎄
 
-    Быстрый доступ к основным функциям через всплывающее меню
+Convenience
 
-    
-    🖥️ Системные требования
+    Runs from the system tray — unobtrusive, always within reach
 
-    ОС: Windows 10 / 11
+    Auto-start with Windows (can be turned on/off)
 
-    Память: ~20 МБ
-    💡 Идея проекта
+    Notifications about cleanup results
 
-Cleaney создан для тех, кто хочет минимизировать рутину по обслуживанию ПК. Вместо того чтобы раз в неделю чистить диск вручную, программа делает это автоматически в фоновом режиме. Просто настройте один раз — и забудьте о мусоре.
+    Russian and English languages (switchable with a button)
+
+    Prevents double-running — only one copy in the system
+
+How to use it?
+
+After launching, the icon appears in the system tray (next to the clock).
+
+    Left-click on the icon — a small menu with quick actions
+
+System requirements
+
+    Windows 10 / 11
+
+Idea 🌟
+
+    The program was born from the desire to have a simple, unobtrusive, yet nice-looking tool for minor system cleanup. No unnecessary buttons, no ads, no constant windows.
